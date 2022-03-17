@@ -1,6 +1,4 @@
-- 👀 I’m interested in blockchain and data science
-- 🌱 I’m currently learning everything
-- 💞️ I work on co0L projects
+- 👀 Who doesn't like blockchain and data
 - 📫 @jose_lasso telegram
 
 <!---
